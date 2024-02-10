@@ -1,0 +1,27 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(234, 234, 234);
+    border-radius: 8px;
+    padding: 24px;
+    margin: 16px;
+    flex-basis: 35%;
+    text-align: left;
+    text-decoration: none;
+    color: initial;
+}
+
+.card:hover {
+    border-color: rgb(85,26,139);
+    color: rgb(85,26,139)
+}
+
+.title {
+    font-size: 24px;
+    margin: 0 0 16px;
+}
+
+.description {
+    font-size: 20px;
+    margin: 0px;
+}

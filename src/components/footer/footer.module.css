@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    border-top: 1px solid black; 
+    width: 100%;
+    justify-self: flex-end;
+    flex: none;
+    font-size: 16px;
+}
+
+
+
+
+
+
+  
